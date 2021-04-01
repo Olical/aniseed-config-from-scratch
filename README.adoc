@@ -1,0 +1,14 @@
+= Aniseed config from scratch
+
+A demo of setting up your Neovim configuration with Aniseed from absolutely nothing. Hopefully this helps people get into the Neovim + Aniseed world!
+
+ * https://youtu.be/GBC70qIUVec
+ * https://github.com/Olical/dotfiles
+ * https://github.com/Olical/aniseed
+ * https://github.com/Olical/conjure
+ * https://github.com/Olical/fennel.vim
+ * https://github.com/junegunn/vim-plug
+ * https://github.com/Shougo/deoplete.nvim
+ * https://github.com/wbthomason/packer.nvim
+ * https://github.com/savq/paq-nvim
+ * https://github.com/hrsh7th/nvim-compe
